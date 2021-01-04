@@ -1,8 +1,8 @@
 # Marriage-MasterGUI-language.yml
 This repository contains all translation files for MarriageMasterGUI, translated by players for players.
 
-Please rename your file " language.yml " in your MarriageMasterGUI folder before use.
+***Please rename your file " language.yml " in your MarriageMasterGUI folder before use.***
 
-Contributors :
-Rein_Dachs : English (default) file / French
-MIANRDAM : Dutch
+## Contributors :
+ * Rein_Dachs : English (default) file / French
+ * MIANRDAM : Dutch
