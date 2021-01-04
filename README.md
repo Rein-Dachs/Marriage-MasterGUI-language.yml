@@ -4,4 +4,5 @@ This repository contains all translation files for MarriageMasterGUI, translated
 Please rename your file " language.yml " in your MarriageMasterGUI folder before use.
 
 Contributors :
-Rein-83 : English (default) file / French
+Rein_Dachs : English (default) file / French
+MIANRDAM : Dutch
