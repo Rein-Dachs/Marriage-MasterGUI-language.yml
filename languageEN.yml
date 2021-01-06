@@ -4,7 +4,7 @@ msg:
   consentmarryrequest: "&lDo you accept the marriage request from {0} ?"
   consentdivorcerequest: "&lDo you want to divorce with your partener ?"
   acceptplayer: "&a[Yes I want !]"
-  declineplayer: "&4[Finally... No.]"
+  declineplayer: "&4[Finally... No.]" 
   accept: "&a[Accept]"
   decline: "&4[Decline]"
   declinemarriage: "You refused the marriage"
