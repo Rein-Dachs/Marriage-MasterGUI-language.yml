@@ -6,7 +6,7 @@ msg:
   acceptplayer: "&a[Yes I want !]"
   declineplayer: "&4[Finally... No.]"
   accept: "&a[Accept]"
-  decline: "&4[Decline]" 
+  decline: "&4[Decline]"
   declinemarriage: "You refused the marriage"
   acceptdivoce: "You accepted the divorce"
   declinedivoce: "You refused the divorce"
