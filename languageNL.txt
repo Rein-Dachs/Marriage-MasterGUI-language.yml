@@ -21,7 +21,7 @@ msg:
   notpermission: "Je hebt hier geen toestemming voor"
 
 gui:
-  marrymenu: "Trouw Menu" 
+  marrymenu: "Trouw Menu"
   church: "Kerk"
   coupleslist: "Koppels lijst"
   citizenspriestlist: "Lijst met priesters van burgers"
