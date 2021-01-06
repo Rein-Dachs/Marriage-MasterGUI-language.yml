@@ -21,7 +21,7 @@ msg:
   notpermission: "Vous n'avez pas la permission de faire cela."
 
 gui:
-  marrymenu: "Menu de Mariage Master"
+  marrymenu: "Menu de Mariage Master" 
   church: "Eglise"
   coupleslist: "Liste des couples"
   citizenspriestlist: "Liste des pretres Citizens"
