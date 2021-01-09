@@ -1,10 +1,10 @@
 msg:
   tprequest: "&lAcceptez-vous d'etre teleporte a l'eglise ?"
   notpriest: "Vous n'etes pas un pretre !"
-  consentmarryrequest: "§lAcceptez vous la demande en mariage de {0} ?"
-  consentdivorcerequest: "§lSouhaitez-vous divorcer de votre partenaire actuel ?"
-  acceptplayer: "§a[Oui je le veux !]"
-  declineplayer: "§4[Finalement... Non.]"
+  consentmarryrequest: "&lAcceptez vous la demande en mariage de {0} ?"
+  consentdivorcerequest: "&lSouhaitez-vous divorcer de votre partenaire actuel ?"
+  acceptplayer: "&a[Oui je le veux !]"
+  declineplayer: "&4[Finalement... Non.]"
   accept: "&a[Accepter]"
   decline: "&4[Refuser]"
   declinemarriage: "Vous avez refuse la demande en mariage."
@@ -41,9 +41,9 @@ page:
   nextpage: "Page suivante"
   currentpage: "&6Page actuelle"
   priestoffline: "Pretre Hors-ligne"
-  totalcouple: "§6Couples totaux"
-  totalpriest: "§6Pretres totaux"
-  totalcitizenspriest: "§6Citizens Pretres totaux"
+  totalcouple: "&6Couples totaux"
+  totalpriest: "&6Pretres totaux"
+  totalcitizenspriest: "&6Citizens Pretres totaux"
 
 op:
   savelocationchurch: "La nouvelle localisation de l'eglise a bien ete sauvegardee !"
