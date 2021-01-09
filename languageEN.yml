@@ -41,9 +41,9 @@ page:
   nextpage: "Next Page"
   currentpage: "&6Current Page"
   priestoffline: "Priest Offline"
-  totalcouple: "§6Total Couples"
-  totalpriest: "§6Total Priests"
-  totalcitizenspriest: "§6Total Citizens Priests"
+  totalcouple: "&6Total Couples"
+  totalpriest: "&6Total Priests"
+  totalcitizenspriest: "&6Total Citizens Priests"
 
 op:
   savelocationchurch: "The new church location has been save !"
