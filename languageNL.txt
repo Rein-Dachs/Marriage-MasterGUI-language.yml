@@ -41,9 +41,9 @@ page:
   nextpage: "Volgende pagina"
   currentpage: "&6Huidige pagina"
   priestoffline: "Priester Offline"
-  totalcouple: "§6Totaal Koppels"
-  totalpriest: "§6Totaal Priesters"
-  totalcitizenspriest: "§6Totaal Inwoners Priesters"
+  totalcouple: "&6Totaal Koppels"
+  totalpriest: "&6Totaal Priesters"
+  totalcitizenspriest: "&6Totaal Inwoners Priesters"
 
 op:
   savelocationchurch: "De nieuwe kerklocatie is opgeslagen !"
