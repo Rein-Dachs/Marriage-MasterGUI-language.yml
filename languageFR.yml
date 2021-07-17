@@ -7,6 +7,7 @@ msg:
   declineplayer: "&4[Finalement... Non.]"
   accept: "&a[Accepter]"
   decline: "&4[Refuser]"
+  acceptmarriage: "Vous avez accepté le mariage."
   declinemarriage: "Vous avez refuse la demande en mariage."
   acceptdivoce: "Vous avez accepte le divorce."
   declinedivoce: "Vous avez reguse le divorce."
@@ -51,3 +52,4 @@ op:
   partnerrefusedtprequestpriest: "Un des partenaires a reguse la requete"
   timeoutrespondofpartnerpriest: "Un des partenaires n'a pas repondu dans les temps a votre requete"
   addpriestclick: "Faites un clic droit sur le NPC pour en faire un pretre"
+  newpriestmessage: "est maintenant un prêtre Citizen."
