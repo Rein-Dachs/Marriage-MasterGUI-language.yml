@@ -7,6 +7,7 @@ msg:
   declineplayer: "&4[Finally... No.]" 
   accept: "&a[Accept]"
   decline: "&4[Decline]"
+  acceptmarriage: "You accepted the marriage"
   declinemarriage: "You refused the marriage"
   acceptdivoce: "You accepted the divorce"
   declinedivoce: "You refused the divorce"
@@ -51,3 +52,4 @@ op:
   partnerrefusedtprequestpriest: "A partner refused your request"
   timeoutrespondofpartnerpriest: "A partner did not respond to your request in time"
   addpriestclick: "Right click to the new npc priest to add trait"
+  newpriestmessage: "is now a citizen priest."
